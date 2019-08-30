@@ -3,6 +3,7 @@ Learning how to Docker
 
 ## Useful Links
 * https://www.youtube.com/watch?v=JprTjTViaEA
+* https://www.netcentric.biz/insights/2017/08/aem-and-docker.html
 * AEM Docker Example: https://github.com/remcorakers/aem-docker-getting-started
 * AEM Docker Example: https://github.com/jimfrenette/aem-docker
 
