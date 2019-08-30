@@ -11,6 +11,7 @@ Learning how to Docker
 * https://www.netcentric.biz/insights/2017/08/aem-and-docker.html
 * https://github.com/remcorakers/aem-docker-getting-started
 * https://github.com/jimfrenette/aem-docker
+* https://www.youtube.com/watch?v=7vBrN53HkoQ
 
 ## Useful Commands
 
