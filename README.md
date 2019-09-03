@@ -94,3 +94,6 @@ Then run the image:
 docker run -it zaps-ubuntu-image
 ```
 Once the image is online, you should be able to run python 3 from the cmd line
+
+## Cleanup Images
+https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
