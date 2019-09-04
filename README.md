@@ -36,6 +36,9 @@ docker run --name zaps-hello-world hello-world
 # https://hub.docker.com/_/ubuntu
 docker run -it --name my-linux-container ubuntu bash
 
+# Terminal into a running container
+docker exec -it [container-id] bash
+
 # exit a running image
 exit
 
